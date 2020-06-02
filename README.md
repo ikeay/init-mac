@@ -32,3 +32,8 @@ link.shをバックアップディレクトリ用のディレクトリ内にコ�
 ```
 sudo ~/Dropbox/_backup/link.sh
 ```
+
+## その他
+- [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) のインストール
+- [Logicool Options](https://www.logicool.co.jp/ja-jp/product/options) のインストール
+- [アドビクリエイティブクラウド](https://creativecloud.adobe.com/) のインストール
