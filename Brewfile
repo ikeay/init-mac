@@ -37,7 +37,7 @@ cask "appcleaner"
 cask "processing"
 cask "zoomus"
 mas "CotEditor", id: 1024640650
-mas "1Password", id: 443987910
+mas "1Password 7", id: 1333542190
 mas "LINE", id: 539883307
 mas "Slack", id: 803453959
 mas "Xcode", id: 497799835
