@@ -17,7 +17,7 @@ Brewfileを `~/.Brewfile` にコピーして以下を実行
 brew bundle --file  ~/.Brewfile
 ```
 
-## バックアップしていた `.ssh` `.zshrc` `.gitconfig` などをユーザーローカルにシンボリックリンクを貼る
+## バックアップしていた `.ssh` `.zshrc` `.gitconfig` などをユーザーローカルにシンボリックリンクとして貼る
 ### 前提
 - Dropboxにバックアップ用ディレクトリを用意している。
   - 私の場合は `~/Dropbox/_backup` を用意している
