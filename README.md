@@ -11,7 +11,7 @@ Homebrew bundlerのインストール
 brew tap Homebrew/bundle
 ```
 
-Brewfileを `~/.Brewfile` にコピーして以下をrun
+Brewfileを `~/.Brewfile` にコピーして以下を実行
 
 ```
 brew bundle --file  ~/.Brewfile
@@ -24,6 +24,11 @@ brew bundle --file  ~/.Brewfile
   - その中に `.zshrc` `.gitconfig` ファイルと `.ssh` ディレクトリが入っている
 
 ### 実行
+
+プログラム内の `backup_file_path` を自分の バックアップ用のファイルディレクトリへのパスに書き換える
+
+link.shをバックアップディレクトリ用のディレクトリ内にコピーして以下を実行
+
 ```
 sudo ~/Dropbox/_backup/link.sh
 ```
