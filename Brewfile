@@ -20,7 +20,7 @@ brew "rbenv-bundler"
 brew "redis", start_service: true
 brew "zsh"
 brew "docker-compose"
-cask "oh-my-zsh"
+cask "ngrok"
 cask "android-file-transfer"
 cask "appcode"
 cask "discord"
