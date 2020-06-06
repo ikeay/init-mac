@@ -36,6 +36,7 @@ cask "arduino"
 cask "appcleaner"
 cask "processing"
 cask "zoomus"
+cask "skype"
 mas "CotEditor", id: 1024640650
 mas "1Password 7", id: 1333542190
 mas "LINE", id: 539883307
